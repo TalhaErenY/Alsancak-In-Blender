@@ -6,9 +6,10 @@ Used as a background for my bachelor's thesis project, [also available on github
 
 The workflow involved a combined usage of Rhino, Autocad, and Blender. The building heights were taken from goverment survey/record data presented as a dwg, which was processed in Rhino with Grasshopper. The 3D building data was then taken to Blender with the aid of [Speckle](https://github.com/specklesystems), and satellite topographic data was downloaded within Blender to be merged with.
 
-
-
-To reduce render time, the scene is split into two, the city being rendered in Eevee while the project buildings and topography is rendered in Cycles.
-
+![thumbnail](https://github.com/TalhaErenY/Alsancak-In-Blender/blob/main/alsancakBlenderTowers.jpg)
 
 Even though they are in the process of being built, the renders provided by the tower projects were used as a basis to project 'the future' onto current Alsancak
+
+![thumbnail](https://github.com/TalhaErenY/Alsancak-In-Blender/blob/main/alsancakBlenderCloseUp.jpg)
+
+To reduce render time, the scene is split into two, the city being rendered in Eevee while the project buildings and topography is rendered in Cycles.
